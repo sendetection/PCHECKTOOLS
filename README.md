@@ -49,25 +49,6 @@ https://github.com/ponei/JournalTrace/releases/download/1.0/JournalTrace.exe [Jo
 
 https://download.ericzimmermanstools.com/MFTECmd.zip [MFTE CMD]
 
-_Eric zimmerman_
-
-https://download.ericzimmermanstools.com/AppCompatCacheParser.zip [Shimcache Parser]
-
-https://download.ericzimmermanstools.com/AmcacheParser.zip [AMcache Parser]
-
-https://download.ericzimmermanstools.com/bstrings.zip [Bstrings]
-
-https://download.ericzimmermanstools.com/net6/JumpListExplorer.zip [Jumplist Explorer]
-
-https://download.ericzimmermanstools.com/PECmd.zip [PECMD]
-
-https://download.ericzimmermanstools.com/net6/ShellBagsExplorer.zip [Shellbags]
-
-https://download.ericzimmermanstools.com/net6/TimelineExplorer.zip [Timeline Explorer]
-
-https://download.ericzimmermanstools.com/SrumECmd.zip [SRUM]
-
-
 _Nirsoft_
 
 https://www.nirsoft.net/utils/alternatestreamview-x64.zip [ADS]
